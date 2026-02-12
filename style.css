@@ -212,7 +212,6 @@ img {
   color: var(--text-muted);
 }
 
-/* GRID PRODUK */
 .grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -314,4 +313,5 @@ img {
     grid-template-columns: 1fr;
   }
 }
+
 
